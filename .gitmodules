@@ -1,0 +1,12 @@
+[submodule "Mint-Kart-Smart-Contracts"]
+	path = Mint-Kart-Smart-Contracts
+	url = https://github.com/The-Thunderbirds/Mint-Kart-Smart-Contracts
+[submodule "Kart-Backend"]
+	path = Kart-Backend
+	url = https://github.com/The-Thunderbirds/Kart-Backend
+[submodule "Flipkart-UI"]
+	path = Flipkart-UI
+	url = https://github.com/The-Thunderbirds/Flipkart-UI
+[submodule "Mint-Kart-UI"]
+	path = Mint-Kart-UI
+	url = https://github.com/The-Thunderbirds/Mint-Kart-UI
